@@ -228,6 +228,7 @@ header #menu-btn:hover{
     padding: 0rem 5%;
     background-color:#111111;
     min-height: 100vh;
+    padding-top: 2rem;
 }
 
 .home .box-container{
