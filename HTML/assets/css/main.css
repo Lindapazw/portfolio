@@ -494,15 +494,12 @@ header #menu-btn:hover{
     width:80%;
 }
 .skill-item.item1 .box:nth-child(5) .progress-bar span{
-    width:79%;
-}
-.skill-item.item1 .box:nth-child(6) .progress-bar span{
     width:75%;
 }
-.skill-item.item1 .box:nth-child(7) .progress-bar span{
+.skill-item.item1 .box:nth-child(6) .progress-bar span{
     width:70%;
 }
-.skill-item.item1 .box:nth-child(8) .progress-bar span{
+.skill-item.item1 .box:nth-child(7) .progress-bar span{
     width:25%;
 }
 /* Segunda columna */
